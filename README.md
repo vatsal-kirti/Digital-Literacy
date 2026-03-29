@@ -7,11 +7,7 @@
 - **Batch:** 2025-29
 - **Current Year:** 1st Year (Academic Year 2025-26)
 
----
-
 ### Digital Literacy & Professional Development (CSE0001)
 This repository serves as my official digital portfolio for the **CSE0001** course. It documents my journey in mastering professional communication, digital branding, and cybersecurity fundamentals.
 
 *   **Learning Goal:** I hope to learn how to leverage modern digital tools and secure coding practices to build a professional and impactful presence in the tech industry.
----
-*“Bridging the gap between theoretical knowledge and real-world digital skills.”*
