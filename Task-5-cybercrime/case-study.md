@@ -4,7 +4,7 @@ As a Digital Ambassador, I chose phishing because honestly it can happen to anyo
 
 ---
 
-## 📌 Case Study: The “Urgent Account Verification” Scam
+##  Case Study: The “Urgent Account Verification” Scam
 
 Imagine you are just chilling or maybe doing some work and suddenly one message comes:
 
@@ -20,24 +20,24 @@ The moment you enter your details, the scammer already gets all your information
 
 ---
 
-## 🎯 Who is targeted
+##  Who is targeted
 
 Honestly, anyone can get trapped in this. But mostly elderly people, students, or busy persons who don’t check things properly become easy targets.
 
 ---
 
-## ⚠️ Consequences
+##  Consequences
 
 After that, it feels really bad. Money is gone, account is hacked, and you keep thinking why you even clicked that link. Sometimes scammers also use your account to message your friends and cheat them too.
 
 ---
 
-## 💡 Takeaway
+##  Takeaway
 
 So next time if you get any message like this, just stop for a few seconds and think. That small pause can save you from a very big problem.
 
 ---
 
-## 🔗 Sources
+##  Sources
 
 - https://cybercrime.gov.in/Webform/theme/resources/advisories/ADVISORYTAU-ADV-003DigitalArrest06.03.2025.pdf
