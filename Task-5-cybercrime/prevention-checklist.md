@@ -1,47 +1,38 @@
 # Stay Safe Online – Checklist  
-*(For College Students in India)*
 
 ---
 
-## ✅ General Safety Tips
+## General Safety Tips
 
-- [ ] Use strong passwords and keep different for every account  
-  *(I know it is hard to remember but still important)*  
+-  Use strong passwords and keep different for every account    
 
-- [ ] Turn on 2FA on email, bank apps and social media  
-  *(it doesn’t take much time but gives extra safety)*  
+-  Turn on 2FA on email, bank apps and social media  
 
-- [ ] Don’t click on random links from SMS, email or WhatsApp  
-  *(even if it looks urgent or scary)*  
+-  Don’t click on random links from SMS, email or WhatsApp  
 
-- [ ] Always check website URL before login  
-  *(fake sites sometimes looks exactly same so easy to confuse)*  
+-  Always check website URL before login   
 
-- [ ] Try avoiding public Wi-Fi when doing banking or UPI  
-  *(it is not really safe to use there)*  
+-  Try avoiding public Wi-Fi when doing banking or UPI  
 
-- [ ] Keep your phone and apps updated  
-  *(most of time updates fix security problems)*  
+-  Keep your phone and apps updated  
 
-- [ ] Never share OTP, PIN or password with anyone  
-  *(even if they say they are from bank — they are not actually)*  
+-  Never share OTP, PIN or password with anyone    
 
-- [ ] Check properly before applying to jobs, internships or scholarships  
-  *(many fake things are there online)*  
+-  Check properly before applying to jobs, internships or scholarships    
 
 ---
 
-## 💰 UPI / Financial Safety Tips
+##  UPI / Financial Safety Tips
 
-- [ ] Don’t accept unknown UPI collect requests  
+-  Don’t accept unknown UPI collect requests  
   *(accepting means you are sending money, not receiving)*  
 
-- [ ] Always double check name and ID before sending money  
+-  Always double check name and ID before sending money  
   *(once it is gone you can’t really get it back)*  
 
 ---
 
-## 🚨 Reporting Cybercrime
+##  Reporting Cybercrime
 
-- 🌐 Report online: https://cybercrime.gov.in  
-- 📞 Helpline number: **1930**
+-  Report online: https://cybercrime.gov.in  
+-  Helpline number: **1930**
