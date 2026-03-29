@@ -1,4 +1,4 @@
-# Hi there, I'm Vatsal KIrti Srivastava 👋
+# Hi there, I'm Vatsal Kirti Srivastava 👋
 
 ### 🎓 Academic Profile
 - **Name:** Vatsal KIrti Srivastava
