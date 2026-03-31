@@ -11,3 +11,9 @@
 This repository serves as my official digital portfolio for the **CSE0001** course. It documents my journey in mastering professional communication, digital branding, and cybersecurity fundamentals.
 
 *   **Learning Goal:** I hope to learn how to leverage modern digital tools and secure coding practices to build a professional and impactful presence in the tech industry.
+### Quick Links
+- **Linkedin Profile:** https://www.linkedin.com/in/vatsal-kirti-srivastava-a112a6371/
+- **Kaggle Profile:** https://www.kaggle.com/vatsalkirtisrivastav
+- **Google Form:** https://docs.google.com/forms/d/1SbBN96vWzi3TVlzZ9OEtaXYTrrqCQ6t4ufsjFakQHkc/edit
+- **Github:** github.com/vatsal-kirti
+  
