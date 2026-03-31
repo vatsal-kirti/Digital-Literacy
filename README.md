@@ -15,5 +15,5 @@ This repository serves as my official digital portfolio for the **CSE0001** cour
 - **Linkedin Profile:** https://www.linkedin.com/in/vatsal-kirti-srivastava-a112a6371/
 - **Kaggle Profile:** https://www.kaggle.com/vatsalkirtisrivastav
 - **Google Form:** https://docs.google.com/forms/d/1SbBN96vWzi3TVlzZ9OEtaXYTrrqCQ6t4ufsjFakQHkc/edit
-- **Github:** github.com/vatsal-kirti
+- **Github:** https://github.com/vatsal-kirti
   
